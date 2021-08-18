@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MovieCatalog</string>
+    <string name="movies">Movies</string>
+    <string name="tv_shows">Tv Shows</string>
+    <string name="title">Title</string>
+    <string name="release_date">Release Date: %1$s</string>
+    <string name="tag_line">Tagline</string>
+    <string name="rating">%1$s/10</string>
+    <string name="vote_count">(%1$s votes)</string>
+    <string name="overview">Overview</string>
+    <string name="back_button">Back Button</string>
+    <string name="share_button">Share Button</string>
+    <string name="bookmark_button">Bookmark to Favorite Button</string>
+    <string name="error_loading_message">Oops, something went wrong</string>
+    <string name="added_to_favorite">Added to favorites</string>
+    <string name="removed_from_favorite">Removed from favorites</string>
+    <string name="empty">Empty</string>
+    <string name="search">Search..</string>
+    <string name="poster_background">Poster Background</string>
+    <string name="poster">Poster</string>
+    <string name="sort_button">Sort Button</string>
+    <string name="search_button">Search Button</string>
+    <string name="app_icon">App Icon</string>
+    <string name="title_favorite">Favorite</string>
+</resources>
